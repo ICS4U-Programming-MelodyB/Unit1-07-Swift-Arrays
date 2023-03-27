@@ -1,0 +1,4 @@
+The mean is:  74.4094
+The median is:  74.0
+The mode is:  [73]
+
